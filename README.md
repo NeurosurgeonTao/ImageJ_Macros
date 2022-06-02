@@ -7,3 +7,7 @@ Three macros used in the Manuscript *"Continued P2X7 Activation after Subarachno
 *QuantIF_R&G_with_RATS.ijm* for the analysis of overlap of Red and Green.
 
 *TUNEL in Iba-1.ijm* for analysis of TUNEL+ (red) in microglia (green).
+
+*Microglia Ridge Detection* for analysis of microglial branch length in this experiment. Suitable for one channel 2D fluorescence pictures.
+
+*Microglial cell count* for automatic cell count in microglia fluorescence pictures.
